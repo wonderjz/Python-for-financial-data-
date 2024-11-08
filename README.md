@@ -1,5 +1,5 @@
 # Python for web scrapying
-web scrapying codes 
+web scraping codes 
 
 log in a bilibili account 
 
